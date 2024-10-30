@@ -1,0 +1,4308 @@
+# Copyright (C) 2019 Iki Toolkit
+# This file is distributed under the same license as the Iki Toolkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iki Toolkit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: iki-toolkit.php:215
+msgid "Featured Blog Posts"
+msgstr ""
+
+#: iki-toolkit.php:223
+msgid "Featured Portfolio Posts"
+msgstr ""
+
+#: iki-toolkit.php:233
+msgid "Featured Team Member Posts"
+msgstr ""
+
+#: iki-toolkit.php:242
+msgid "Featured Products"
+msgstr ""
+
+#: iki-toolkit.php:254, includes/vc/class-wonder-grid-vc.php:530, includes/wonder-grid/class-wonder-grid-cpt.php:21, includes/wonder-grid/class-wonder-grid-cpt.php:22
+msgid "Wonder Grid"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:23
+msgid "Email invalid"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:43, includes/functions/contact-functions.php:22
+msgid "Wrong answer"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:51
+msgid "There were some errors while trying to submit the form"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:60
+msgid "Phone number not provided"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:69
+msgid "Name"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:71
+msgid "Email"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:74, includes/functions/contact-functions.php:28
+msgid "Phone"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:76, includes/functions/contact-functions.php:29
+msgid "Message"
+msgstr ""
+
+#: includes/admin-settings/ajax-contact.php:88
+msgid "Error sending mail, please try again later"
+msgstr ""
+
+#: includes/admin-settings/class-external-service-front-end.php:38
+msgctxt "External service lightbox link text"
+msgid "View image on Flickr.com"
+msgstr ""
+
+#: includes/admin-settings/class-external-service-front-end.php:43
+msgctxt "External service lightbox link text"
+msgid "View image on Pinterest.com"
+msgstr ""
+
+#: includes/admin-settings/class-social-profiles-section.php:12
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/admin-settings/class-social-profiles-section.php:23
+msgid "Setup global links to social profiles on various social networks."
+msgstr ""
+
+#: includes/admin-settings/classs-admin-settings.php:106
+msgid "Iki Toolkit options"
+msgstr ""
+
+#: includes/breadcrumbs/class-iki-breadcrumbs.php:16
+msgid "Homepage"
+msgstr ""
+
+#: includes/breadcrumbs/class-iki-breadcrumbs.php:17
+msgid "Blog"
+msgstr ""
+
+#: includes/breadcrumbs/class-iki-breadcrumbs.php:18
+msgid "404 Not found"
+msgstr ""
+
+#: includes/breadcrumbs/class-iki-breadcrumbs.php:169
+msgid "Searching for:"
+msgstr ""
+
+#: includes/breadcrumbs/class-iki-breadcrumbs.php:319
+msgid "No title"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:8
+msgid "Breadcrumb navigation"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:13
+msgid "Show breadcrumb navigation"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:14
+msgid "Breadcrumb navigation will be shown everywhere, except for \"blank page\" template. It can also be disabled for some page templates on page by page basis."
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:23, includes/create-options/class-admin-options-fs-panels.php:69, includes/create-options/class-admin-options-fs-panels.php:109, includes/create-options/class-admin-options-fs-panels.php:209, includes/create-options/class-admin-options-fs-panels.php:268, includes/create-options/class-admin-options-fs-panels.php:318, includes/create-options/class-admin-options-fs-panels.php:381, includes/create-options/class-admin-options-fs-panels.php:426, includes/create-options/class-hero-section-options.php:329, includes/create-options/class-hero-section-options.php:357, includes/create-options/class-hero-section-options.php:812, includes/create-options/class-hero-section-options.php:862, includes/create-options/class-hero-section-options.php:888, includes/create-options/class-hero-section-options.php:950, includes/create-options/class-hero-section-options.php:985, includes/create-options/class-hero-section-options.php:1122, includes/create-options/class-hero-section-options.php:1203, includes/create-options/class-hero-section-options.php:1227, includes/create-options/class-hero-section-options.php:1281, includes/create-options/class-hero-section-options.php:1310, includes/create-options/fs-panel-options.php:254, includes/create-options/option-hooks.php:86, includes/create-options/option-hooks.php:169, includes/create-options/option-hooks.php:194, includes/create-options/option-hooks.php:222, includes/create-options/option-hooks.php:271, includes/create-options/option-hooks.php:344, includes/create-options/option-hooks.php:363, includes/create-options/option-hooks.php:439, includes/create-options/option-hooks.php:453, includes/create-options/option-hooks.php:541, includes/admin-settings/featured-posts/class-admin-featured-posts.php:258, includes/admin-settings/featured-posts/class-admin-featured-posts.php:349, includes/admin-settings/featured-posts/class-admin-featured-posts.php:416
+msgid "No"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:27, includes/create-options/class-admin-author-options.php:47, includes/create-options/class-admin-author-options.php:69, includes/create-options/class-admin-options-fs-panels.php:73, includes/create-options/class-admin-options-fs-panels.php:113, includes/create-options/class-admin-options-fs-panels.php:213, includes/create-options/class-admin-options-fs-panels.php:272, includes/create-options/class-admin-options-fs-panels.php:322, includes/create-options/class-admin-options-fs-panels.php:385, includes/create-options/class-admin-options-fs-panels.php:430, includes/create-options/class-admin-options.php:529, includes/create-options/class-admin-options.php:548, includes/create-options/class-admin-options.php:556, includes/create-options/class-admin-options.php:585, includes/create-options/class-admin-options.php:593, includes/create-options/class-hero-section-options.php:333, includes/create-options/class-hero-section-options.php:361, includes/create-options/class-hero-section-options.php:816, includes/create-options/class-hero-section-options.php:866, includes/create-options/class-hero-section-options.php:892, includes/create-options/class-hero-section-options.php:954, includes/create-options/class-hero-section-options.php:989, includes/create-options/class-hero-section-options.php:1207, includes/create-options/class-hero-section-options.php:1231, includes/create-options/class-hero-section-options.php:1285, includes/create-options/class-hero-section-options.php:1314, includes/create-options/fs-panel-options.php:258, includes/create-options/option-hooks.php:90, includes/create-options/option-hooks.php:173, includes/create-options/option-hooks.php:198, includes/create-options/option-hooks.php:226, includes/create-options/option-hooks.php:275, includes/create-options/option-hooks.php:340, includes/create-options/option-hooks.php:359, includes/create-options/option-hooks.php:443, includes/create-options/option-hooks.php:457, includes/create-options/option-hooks.php:545, includes/admin-settings/featured-posts/class-admin-featured-posts.php:218, includes/admin-settings/featured-posts/class-admin-featured-posts.php:229, includes/admin-settings/featured-posts/class-admin-featured-posts.php:235, includes/admin-settings/featured-posts/class-admin-featured-posts.php:242, includes/admin-settings/featured-posts/class-admin-featured-posts.php:262, includes/admin-settings/featured-posts/class-admin-featured-posts.php:270, includes/admin-settings/featured-posts/class-admin-featured-posts.php:353, includes/admin-settings/featured-posts/class-admin-featured-posts.php:394, includes/admin-settings/featured-posts/class-admin-featured-posts.php:420, includes/admin-settings/featured-posts/class-admin-featured-posts.php:443
+msgid "Yes"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:33
+msgid "Breadcrumb separator"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:37
+msgctxt "Breadcrumb name for front page of the site."
+msgid "Home"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:38
+msgid "Homepage indicator"
+msgstr ""
+
+#: includes/create-options/breadcrumbs.php:39
+msgid "Breadcrumb name for front page of the site."
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:38, includes/create-options/class-admin-author-options.php:42
+msgid "Remove global block top"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:54
+msgid "top"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:59, includes/create-options/class-admin-author-options.php:63
+msgid "Remove global block bottom"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:76
+msgid "bottom"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:97
+msgid "Author block"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:130, includes/create-options/class-admin-options.php:431, includes/create-options/class-hero-section-options.php:495, includes/create-options/class-hero-section-options.php:597, includes/create-options/class-hero-section-options.php:686, includes/create-options/class-hero-section-options.php:754, includes/create-options/class-hero-section-options.php:1375, includes/create-options/class-hero-section-options.php:1621, includes/menu-walker/class-walker-menu-admin.php:457, includes/menu-walker/class-walker-menu-admin.php:487, includes/admin-settings/featured-posts/class-admin-featured-posts.php:297
+msgid "Disabled"
+msgstr ""
+
+#: includes/create-options/class-admin-author-options.php:143, includes/menu-walker/class-walker-menu-admin.php:499
+msgid "No content blocks found"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:50
+msgid "Use full screen panel"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:79
+msgid "Panel animation IN"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:85
+msgid "Panel animation OUT"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:93, includes/create-options/class-admin-options-fs-panels.php:280
+msgid "Launch Panel"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:98
+msgid "Show button in main menu"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:99
+msgid "Add button to main menu to show the panel"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:100
+msgid "You can also launch this panel by creating regular menu button in \"Appearance -> Menus\" you just need to add a special class to the menu item you create. Please refer to theme documentation to see the names of the classes. Bonus: you can also add the same class to any HTML element on the page and it will launch the panel when clicked."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:120, includes/create-options/class-hero-section-options.php:960
+msgid "Content width"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:121
+msgid "Maximum width of the content inside the panel."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:123, includes/create-options/class-hero-section-options.php:963
+msgid "Theme width"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:124, includes/create-options/class-hero-section-options.php:297, includes/create-options/class-hero-section-options.php:964, includes/admin-settings/featured-posts/class-admin-featured-posts.php:368
+msgid "Browser width"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:130
+msgid "Content alignment"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:131
+msgid "Vertical aligment of the content inside the panel."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:132
+msgid "This effect will only be visible if the content height is noticably smaller than the height of the browser window."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:134
+msgid "Middle"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:135, includes/create-options/class-hero-section-options.php:381, includes/create-options/class-hero-section-options.php:1706, includes/admin-settings/featured-posts/class-admin-featured-posts.php:328
+msgid "Top"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:205
+msgid "Focus search field"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:206
+msgid "When panel opens immediately focus the search field."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:219
+msgid "Element size"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:221, includes/create-options/class-admin-options-fs-panels.php:398, includes/menu-walker/class-walker-menu-admin.php:275, includes/vc/class-pricing-item.php:138
+msgid "Small"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:222, includes/create-options/class-hero-section-options.php:876
+msgid "Normal"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:245, includes/create-options/fs-panel-options.php:225
+msgid "Use custom colors"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:285, includes/create-options/class-hero-section-options.php:197, includes/vc/class-post-options.php:121, includes/admin-settings/featured-posts/class-admin-featured-posts.php:429
+msgid "Background"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:290, includes/vc/class-post-options.php:115
+msgid "Text"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:295
+msgid "Link"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:300
+msgid "Title text"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:305
+msgid "Link on hover"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:314
+msgid "Blur background image"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:315
+msgid "Implement blur effect on background image"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:328
+msgid "Background overlay color"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:329
+msgid "This color goes over the background image."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:334
+msgid "Close button symbol"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:339
+msgid "Close button background"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:352
+msgid "Setup menu button"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:354
+msgid "Panel menu button options"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:355, includes/create-options/class-hero-section-options.php:186, includes/create-options/option-hooks.php:565, includes/create-options/social-sharing.php:38
+msgid "Open"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:360
+msgid "Panel %1$s"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:361, includes/vc/class-pricing-item.php:111
+msgid "Button text"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:365, includes/create-options/class-admin-options-fs-panels.php:366, includes/functions/fs-panel-functions.php:75, includes/vc/class-theme-social-profiles.php:83
+msgid "Tooltip text"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:371
+msgid "Add icon"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:372
+msgid "Add icon to the menu button"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:391
+msgid "Icon"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:396
+msgid "Icon size"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:399, includes/create-options/class-hero-section-options.php:308, includes/create-options/class-hero-section-options.php:1044, includes/create-options/class-hero-section-options.php:1068, includes/create-options/class-hero-section-options.php:1397, includes/menu-walker/class-walker-menu-admin.php:279, includes/vc/class-pricing-item.php:139, includes/admin-settings/featured-posts/class-admin-featured-posts.php:380
+msgid "Medium"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:400, includes/create-options/class-hero-section-options.php:309, includes/create-options/class-hero-section-options.php:1045, includes/create-options/class-hero-section-options.php:1069, includes/menu-walker/class-walker-menu-admin.php:282, includes/vc/class-pricing-item.php:140, includes/admin-settings/featured-posts/class-admin-featured-posts.php:381
+msgid "Large"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:401, includes/create-options/class-hero-section-options.php:310, includes/admin-settings/featured-posts/class-admin-featured-posts.php:382
+msgid "Extra large (XL)"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:407
+msgid "Float position"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:408
+msgid "Float the button to the left or right of the menu"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:410, includes/create-options/class-hero-section-options.php:343, includes/create-options/class-hero-section-options.php:371, includes/create-options/class-hero-section-options.php:1729, includes/create-options/option-hooks.php:252, includes/menu-walker/class-walker-menu-admin.php:307, includes/menu-walker/class-walker-menu-admin.php:536, includes/vc/class-share-icons.php:53, includes/vc/class-social-profiles.php:48, includes/vc/class-theme-social-profiles.php:75, includes/admin-settings/featured-posts/class-admin-featured-posts.php:316
+msgid "Left"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:411, includes/create-options/class-hero-section-options.php:346, includes/create-options/class-hero-section-options.php:1730, includes/menu-walker/class-walker-menu-admin.php:312, includes/menu-walker/class-walker-menu-admin.php:542, includes/vc/class-share-icons.php:54, includes/vc/class-social-profiles.php:49, includes/vc/class-theme-social-profiles.php:76
+msgid "Right"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:417
+msgid "Add stamp"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:439
+msgid "Stamp text"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:444
+msgid "Stamp position top"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:445, includes/create-options/class-admin-options-fs-panels.php:451, includes/create-options/class-admin-options-fs-panels.php:457, includes/create-options/class-admin-options-fs-panels.php:463, includes/create-options/class-admin-options-fs-panels.php:475
+msgid "Please provide a value together with the unit (px,%). Leave empty for default."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:450
+msgid "Stamp position left"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:456
+msgid "Stamp position bottom"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:462
+msgid "Stamp position right"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:468
+msgid "Stamp rotation"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:469
+msgid "Rotation of the stamp (optional) 0-360.Leave empty for default."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:474
+msgid "Stamp width"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:480
+msgid "Menu z index position"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:481, includes/menu-walker/class-walker-menu-admin.php:319
+msgid "Assign Z-index value (number - integer) to the button that has a stamp , so if the stamp is outside of the button , it won't be overlapped by some other top level button menu."
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:485
+msgid "Stamp animation"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:488, includes/create-options/velocity-options.php:104, includes/create-options/velocity-options.php:124
+msgid "No animation"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:489, includes/menu-walker/class-walker-menu-admin.php:369
+msgid "Pulse"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:490, includes/menu-walker/class-walker-menu-admin.php:374
+msgid "Pulse Alternative"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:491, includes/menu-walker/class-walker-menu-admin.php:378
+msgid "Swing"
+msgstr ""
+
+#: includes/create-options/class-admin-options-fs-panels.php:492, includes/menu-walker/class-walker-menu-admin.php:383
+msgid "Swing Alternative"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:385
+msgid "Content block top"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:409
+msgid "Content block bottom"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:441, includes/blocks/content-blocks/class-content-block-widget.php:83
+msgid "No content blocks available"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:507
+msgid "Design for social media buttons"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:508
+msgid "Please note that you need to setup your social profiles via \"iki toolkit\" plugin."
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:508
+msgctxt "Location of the options"
+msgid "Settings ->iki toolkit -> social profiles"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:511
+msgid "Pre-made design"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:512
+msgid "Symbol only color"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:513
+msgid "Symbol and background"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:522
+msgid "Symbol Color"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:523
+msgid "This option let's you change only the symbol color."
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:528, includes/create-options/class-admin-options.php:546, includes/create-options/class-admin-options.php:583
+msgid "Make icons round"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:536
+msgid "Symbol color"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:541, includes/create-options/class-admin-options.php:753, includes/create-options/class-hero-section-options.php:122, includes/vc/class-pricing-item.php:262
+msgid "Background color"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:547, includes/create-options/class-admin-options.php:555
+msgid "Please note that \"rounded\" icon and \"stretch\" icon options are mutually exclusive. \"Stretch\" option will take precedence"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:553, includes/create-options/class-admin-options.php:590
+msgid "Strech icon width"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:554, includes/create-options/class-admin-options.php:591
+msgid "Make icons wide as their container"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:563
+msgid "Pre-made designs"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:584, includes/create-options/class-admin-options.php:592, includes/vc/vc-utils.php:1190
+msgid "Please note that \"rounded\" icon and \"stretch\" icon options are mutually exclusive"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:690, includes/create-options/class-hero-section-options.php:58, includes/create-options/class-hero-section-options.php:1019, includes/create-options/class-hero-section-options.php:1035, includes/vc/class-img-bg-vc.php:41
+msgid "Image"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:697, includes/create-options/class-admin-options.php:700, includes/create-options/class-hero-section-options.php:65, includes/create-options/class-hero-section-options.php:68, includes/vc/class-img-bg-vc.php:96
+msgid "Repeat"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:699, includes/create-options/class-hero-section-options.php:67, includes/vc/class-img-bg-vc.php:95
+msgid "No repeat"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:701, includes/create-options/class-hero-section-options.php:69, includes/vc/class-img-bg-vc.php:97
+msgid "Repeat X"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:702, includes/create-options/class-hero-section-options.php:70, includes/vc/class-img-bg-vc.php:98
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:711, includes/create-options/class-hero-section-options.php:80
+msgid "Background size"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:713, includes/create-options/class-hero-section-options.php:82, includes/vc/class-img-bg-vc.php:69
+msgid "Cover"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:714, includes/create-options/class-hero-section-options.php:83, includes/vc/class-img-bg-vc.php:70
+msgid "Contain"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:715, includes/create-options/class-hero-section-options.php:84, includes/vc/class-img-bg-vc.php:71
+msgid "Auto"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:724, includes/create-options/class-hero-section-options.php:93, includes/create-options/class-hero-section-options.php:707
+msgid "Position"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:726, includes/create-options/class-hero-section-options.php:95, includes/vc/class-img-bg-vc.php:79
+msgid "Top Left"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:727, includes/create-options/class-hero-section-options.php:96, includes/vc/class-img-bg-vc.php:80
+msgid "Top Center"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:728, includes/create-options/class-hero-section-options.php:97, includes/vc/class-img-bg-vc.php:81
+msgid "Top Right"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:729, includes/create-options/class-hero-section-options.php:98, includes/vc/class-img-bg-vc.php:82
+msgid "Left Center"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:730, includes/create-options/class-hero-section-options.php:99, includes/vc/class-img-bg-vc.php:83
+msgid "Center Center"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:731
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:732, includes/create-options/class-hero-section-options.php:101, includes/vc/class-img-bg-vc.php:85
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:733, includes/create-options/class-hero-section-options.php:102, includes/vc/class-img-bg-vc.php:86
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:734, includes/create-options/class-hero-section-options.php:103, includes/vc/class-img-bg-vc.php:87
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:742, includes/create-options/class-hero-section-options.php:111
+msgid "Attachment"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:745, includes/create-options/class-hero-section-options.php:114, includes/vc/class-img-bg-vc.php:106
+msgid "Scroll"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:746, includes/create-options/class-hero-section-options.php:115, includes/vc/class-img-bg-vc.php:107
+msgid "Fixed"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:780
+msgid "Blog author"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:781
+msgid "Chose blog author to be associated with current team member."
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:782
+msgid "If this team member is associated with blog author, blog posts from chosen author will be displayed as if they are from team member itself."
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:789
+msgid "Don't associate this team member with blog author"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:793
+msgid "No blog authors found"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:824
+msgid "Setup links to social profiles for this team member."
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:825
+msgid "These contact links will be shown if \"Use author contact data\" is set to \"No\""
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:830, includes/create-options/social-sharing.php:54
+msgid "Facebook"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:831
+msgid "Link to Facebook profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:836, includes/create-options/social-sharing.php:55
+msgid "Twitter"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:837
+msgid "Link to Twitter profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:842, includes/create-options/social-sharing.php:56
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:843
+msgid "Link to LinkedIn profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:848, includes/create-options/social-sharing.php:57
+msgid "VK"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:849
+msgid "Link to VK profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:854, includes/create-options/social-sharing.php:58
+msgid "Weibo"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:855
+msgid "Link to Weibo profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:860, includes/create-options/option-hooks.php:46, includes/create-options/social-sharing.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:861
+msgid "Link to Pinterest profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:866, includes/create-options/social-sharing.php:60
+msgid "Reddit"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:867
+msgid "Link to Reddit profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:872, includes/create-options/social-sharing.php:61
+msgid "Tumblr"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:873
+msgid "Link to Tumblr profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:878
+msgid "LastFM"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:879
+msgid "Link to LastFM profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:884
+msgid "MySpace"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:885
+msgid "Link to MySpace profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:890
+msgid "Instagram"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:891
+msgid "Link to Instagram profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:896
+msgid "Dribbble"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:897
+msgid "Link to Dribbble profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:902, includes/create-options/option-hooks.php:47
+msgid "Flickr"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:903
+msgid "Link to Flickr profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:908
+msgid "500px"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:909
+msgid "Link to 500px profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:914
+msgid "GitHub"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:915
+msgid "Link to GitHub profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:920
+msgid "BitBucket"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:921
+msgid "Link to BitBucket profile"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:952
+msgid "Similar post options"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:955, includes/create-options/class-grid-admin-options.php:49, includes/create-options/class-hero-section-options.php:1599, includes/vc/class-image-grid-vc.php:94, includes/vc/class-wonder-grid-vc.php:77
+msgid "Grid"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:959, includes/vc/class-img-bg-vc.php:119
+msgid "Animation"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:960
+msgid "Animation for grid thumbs"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:965
+msgid "Number of posts"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:966
+msgid "Initial number of posts to show. Every ajax query will also load the same number of posts"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:995, includes/create-options/class-hero-section-options.php:701, includes/vc/class-pricing-item.php:160, includes/vc/class-pricing-item.php:168, includes/vc/class-pricing-item.php:175, includes/vc/class-pricing-item.php:181, includes/vc/class-pricing-item.php:188, includes/vc/class-pricing-item.php:195, includes/vc/class-pricing-item.php:203, includes/vc/class-pricing-item.php:210, includes/vc/class-pricing-item.php:221, includes/vc/class-pricing-item.php:230, includes/vc/class-pricing-item.php:241, includes/vc/class-share-icons.php:76, includes/vc/class-social-profiles.php:85, includes/vc/class-theme-social-profiles.php:107, includes/vc/class-title-vc.php:27, includes/vc/class-wonder-grid-vc.php:117, includes/vc/class-wonder-grid-vc.php:126, includes/vc/class-wonder-grid-vc.php:131, includes/vc/class-wonder-grid-vc.php:139, includes/vc/class-wonder-grid-vc.php:144, includes/vc/class-wonder-grid-vc.php:152, includes/vc/class-wonder-grid-vc.php:157
+msgid "Design"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:996
+msgid "Choose the design for the grid"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:1020
+msgid "Team Grid Templates"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:1021, includes/create-options/class-admin-options.php:1044
+msgid "Choose template for grid"
+msgstr ""
+
+#: includes/create-options/class-admin-options.php:1043
+msgid "Portfolio Grid Templates"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:50
+msgid "Please note that premade \"[blog]\" grids have special design. \"Design\" dropdown option below has no affect when any \"[blog]\" grid is used."
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:92
+msgid "[ Square - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:93
+msgid "[ Square - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:94
+msgid "[ Square - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:96
+msgid "[ Square condensed - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:97
+msgid "[ Square condensed - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:98
+msgid "[ Square condensed - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:100
+msgid "[ Portrait - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:101
+msgid "[ Portrait - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:102
+msgid "[ Portrait - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:104
+msgid "[ Portrait condensed - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:105
+msgid "[ Portrait condensed - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:106
+msgid "[ Portrait condensed - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:108
+msgid "[ Landscape - 1 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:109
+msgid "[ Landscape - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:110
+msgid "[ Landscape - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:111
+msgid "[ Landscape - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:113
+msgid "[ Landscape Condensed - 1 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:114
+msgid "[ Landscape Condensed - 2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:115
+msgid "[ Landscape Condensed - 3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:116
+msgid "[ Landscape Condensed - 4 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:118
+msgid "[ Blog mixed ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:119
+msgid "[ Blog mixed v2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:120
+msgid "[ Blog mixed v3 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:121
+msgid "[ Blog mixed and portrait ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:122
+msgid "[ Blog mixed and landscape ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:123
+msgid "[ Blog portrait ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:124
+msgid "[ Blog portrait and landscape ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:125
+msgid "[ Blog portrait and landscape v2 ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:126
+msgid "[ Blog landscape zig zag ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:127
+msgid "[ Blog landscape no zigzag ]"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:142, includes/create-options/class-grid-admin-options.php:154, includes/create-options/class-grid-admin-options.php:166, includes/create-options/class-grid-admin-options.php:178, includes/create-options/class-hero-section-options.php:307, includes/create-options/class-hero-section-options.php:342, includes/vc/class-pricing-item.php:236, includes/vc/class-title-vc.php:115, includes/admin-settings/featured-posts/class-admin-featured-posts.php:379
+msgid "Default"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:143, includes/create-options/class-grid-admin-options.php:155, includes/create-options/class-grid-admin-options.php:167, includes/create-options/class-grid-admin-options.php:179
+msgid "With border"
+msgstr ""
+
+#: includes/create-options/class-grid-admin-options.php:144, includes/create-options/class-grid-admin-options.php:156, includes/create-options/class-grid-admin-options.php:168, includes/create-options/class-grid-admin-options.php:180
+msgid "Rounded corners"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:100, includes/vc/class-img-bg-vc.php:84
+msgid "Right Center"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:183
+msgid "Setup hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:185
+msgid "Hero section options"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:192, includes/vc/class-pricing-item.php:240
+msgid "Layout"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:202
+msgid "Text colors"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:207
+msgid "Overlay"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:212
+msgid "Custom Content"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:217, includes/create-options/class-hero-section-options.php:675
+msgid "Separator"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:221
+msgid "Social icons design"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:266
+msgid "Custom layout"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:283, includes/create-options/class-hero-section-options.php:934
+msgid "disabled"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:287, includes/create-options/class-hero-section-options.php:499, includes/create-options/class-hero-section-options.php:601, includes/create-options/class-hero-section-options.php:690, includes/create-options/class-hero-section-options.php:758, includes/create-options/class-hero-section-options.php:938, includes/create-options/class-hero-section-options.php:1192, includes/create-options/class-hero-section-options.php:1379, includes/create-options/class-hero-section-options.php:1625, includes/menu-walker/class-walker-menu-admin.php:464, includes/admin-settings/featured-posts/class-admin-featured-posts.php:301
+msgid "Enabled"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:293, includes/create-options/class-hero-section-options.php:717, includes/admin-settings/featured-posts/class-admin-featured-posts.php:362
+msgid "Width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:294, includes/admin-settings/featured-posts/class-admin-featured-posts.php:363
+msgid "Width of the hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:296, includes/create-options/class-hero-section-options.php:719, includes/admin-settings/featured-posts/class-admin-featured-posts.php:367
+msgid "Theme fixed width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:303, includes/admin-settings/featured-posts/class-admin-featured-posts.php:374
+msgid "Height"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:304, includes/admin-settings/featured-posts/class-admin-featured-posts.php:375
+msgid "Height of hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:305
+msgid "Full height value is the height of the browser window."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:311, includes/admin-settings/featured-posts/class-admin-featured-posts.php:383
+msgid "Extra extra large (XXL)"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:312, includes/admin-settings/featured-posts/class-admin-featured-posts.php:384
+msgid "Full browser height"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:316
+msgid "Show scroll indicator"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:319
+msgid ""
+"Scroll indicator is useful if hero section has full height, so it can indicate to user that there is more content.\n"
+"			If hero section is not full height, scroll indicator will be automatically hidden."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:339
+msgid "Scroll indicator position"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:340
+msgid "Scroll indicator position inside the hero section."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:344, includes/create-options/class-hero-section-options.php:372, includes/admin-settings/featured-posts/class-admin-featured-posts.php:317
+msgid "Fixed Left"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:345, includes/create-options/class-hero-section-options.php:370, includes/create-options/class-hero-section-options.php:382, includes/create-options/option-hooks.php:251, includes/menu-walker/class-walker-menu-admin.php:529, includes/vc/class-share-icons.php:55, includes/vc/class-social-profiles.php:50, includes/vc/class-theme-social-profiles.php:77, includes/admin-settings/featured-posts/class-admin-featured-posts.php:315, includes/admin-settings/featured-posts/class-admin-featured-posts.php:329
+msgid "Center"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:347
+msgid "Fixed Right"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:353
+msgid "Page title inside hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:354
+msgid "If enabled title will be inside the hero section, otherwise title will appear below hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:367, includes/admin-settings/featured-posts/class-admin-featured-posts.php:310
+msgid "Content horizontal alignment"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:368
+msgid "Horizontal aligment of the content inside the hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:378
+msgid "Content vertical aligment"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:379
+msgid "Vertical aligment of the content inside the hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:383, includes/create-options/class-hero-section-options.php:1707, includes/admin-settings/featured-posts/class-admin-featured-posts.php:330
+msgid "Bottom"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:484
+msgid "Custom background"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:578
+msgid "Gradient overlay goes over the hero background image, and can provide a nice contrast for a more readable text."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:578
+msgid "It consists of two colors, you can change them independently."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:581
+msgid "Custom overlay"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:608
+msgid "Color 1"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:609
+msgid "First gradient color"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:614
+msgid "Color 2"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:615
+msgid "Second gradient color"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:620
+msgid "Gradient orientation"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:622
+msgid "Vertical from top to bottom"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:623
+msgid "Diagonal from bottom to top"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:624
+msgid "Diagonal from top to bottom"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:635
+msgid "Color 1 start"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:636
+msgid "Best results are between 0-50"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:646
+msgid "Color 2 start"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:647
+msgid "Best results are between 50-100"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:672
+msgid "Separator is a visual element that gives an illusion of irregular shape for hero section."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:709
+msgid "Relative"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:710
+msgid "Absolute"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:720
+msgid "Hero section width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:743
+msgid "Enable custom colors"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:767, includes/create-options/fs-panel-options.php:205, includes/vc/class-pricing-item.php:248, includes/admin-settings/featured-posts/class-admin-featured-posts.php:434
+msgid "Text color"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:772
+msgid "Link color"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:777
+msgid "Link color hover"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:782
+msgid "Remove text shadows"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:783
+msgid "Some text elements (title, subtitle etc..) have very subtle text shadows applied. You can choose to remove them."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:801
+msgid "Use custom design"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:850
+msgid "Blur background"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:851
+msgid "Blur the background while the real (big) image is loading"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:872
+msgid "Blur strength"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:875, includes/vc/class-pricing-item.php:217
+msgid "Weak"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:877, includes/vc/class-pricing-item.php:218
+msgid "Strong"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:882
+msgid "Permanent blur"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:883
+msgid "Leave the blurred background (don't load big image)"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:884
+msgid "If used, hero section will have blurred background and big background picture will never be loaded. This can be a very interesting design effect, and improve page load performance."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:918
+msgid "Custom content"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:921
+msgid "Please note that if \"featured posts\" option is present and enabled for this hero section it will override custom content."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:945
+msgid "Background behind content"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:946
+msgid ""
+"For some custom content elements ( gallery , wp editor ) this option will show background behind those\n"
+"				elements, so it is  easier to read and see the actual content."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:961
+msgid "Depending on how slider revolution is constructed it might not respect this setting."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:965
+msgid "Narow"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:966
+msgid "More narrow"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:967
+msgid "Even more narrow"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:968
+msgid "Custom width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:974
+msgid "Custom content width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:975
+msgid "Specify custom content width (with units). Make sure that \"custom width\" option is selected above. "
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:976
+msgid "Use only numbers, no units.The value will always be in pixels."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:981
+msgid "Remove vertical spacing for custom content"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:982
+msgid "This option is particularly useful when you have \"slider revolution\" for custom content. So the slider appears over the whole hero section."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1018, includes/vc/class-image-grid-vc.php:68, includes/vc/class-image-slider-vc.php:92, includes/vc/class-pricing-item.php:216
+msgid "None"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1020
+msgid "Featured image"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1021
+msgid "Image gallery"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1022
+msgid "Oembed"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1023
+msgid "Content Block"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1024, includes/create-options/class-hero-section-options.php:1504
+msgid "slider revolution"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1025
+msgid "WordPress editor"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1026
+msgid "Raw HTML"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1041, includes/create-options/class-hero-section-options.php:1065, includes/vc/class-image-slider-vc.php:80, includes/vc/class-img-bg-vc.php:59, includes/vc/class-post-options.php:218
+msgid "Image size"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1043, includes/create-options/class-hero-section-options.php:1067
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1046, includes/create-options/class-hero-section-options.php:1070
+msgid "Original"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1047, includes/create-options/class-hero-section-options.php:1071, includes/create-options/class-hero-section-options.php:1123, includes/vc/class-image-slider-vc.php:74, includes/vc/class-img-bg-vc.php:53, includes/vc/class-post-options.php:232, includes/wonder-grid/admin/class-grid-admin.php:230
+msgid "Landscape"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1048, includes/create-options/class-hero-section-options.php:1072
+msgid "Landscape slim"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1049, includes/create-options/class-hero-section-options.php:1073, includes/create-options/class-hero-section-options.php:1124, includes/create-options/option-hooks.php:243, includes/vc/class-image-slider-vc.php:72, includes/vc/class-img-bg-vc.php:51, includes/vc/class-post-options.php:230, includes/wonder-grid/admin/class-grid-admin.php:233
+msgid "Square"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1050, includes/create-options/class-hero-section-options.php:1074, includes/create-options/class-hero-section-options.php:1125, includes/vc/class-image-slider-vc.php:73, includes/vc/class-img-bg-vc.php:52, includes/vc/class-post-options.php:231, includes/wonder-grid/admin/class-grid-admin.php:227
+msgid "Portrait"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1060
+msgid "Please note: This option is only availabe for posts, pages, and custom post types (where you can actually set the featured image) for other locations use \"image\" option instead."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1082, includes/create-options/class-hero-section-options.php:1593, includes/vc/class-image-grid-vc.php:52, includes/vc/class-image-slider-vc.php:58
+msgid "Images"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1088
+msgid "Columns"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1090
+msgid "1"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1091
+msgid "2"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1092
+msgid "3"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1093
+msgid "4"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1094
+msgid "5"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1095
+msgid "6"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1096
+msgid "7"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1097
+msgid "8"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1098
+msgid "9"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1099
+msgid "10"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1108
+msgid "Oembed links"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1109
+msgid "Youtube, Vimeo, Twitter, SoundCloud and other wordpress supported oemb providers."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1110
+msgid "If wordpress doesn't properly embed the content from your chosen provider. Try the \"custom html\" option instead"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1118
+msgid "Force oembed element orientation"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1119
+msgid ""
+"You can force oembed element layout. For instance, youtube videos are in landscape mode, instagram videos are square. Defining this value will prevent content resizing (jumping) when the content is initially loaded.\n"
+"							This is completely optional."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1131
+msgid "Slider"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1140
+msgid "Custom html"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1141
+msgid ""
+"Please note: Be careful when using raw html and javascript, be sure to trust the code you are using, or your site could be\n"
+"				exploited via malicious code."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1148, includes/create-options/class-hero-section-options.php:1668
+msgid "Content block"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1158
+msgid "Custom Text"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1179, includes/admin-settings/featured-posts/class-admin-featured-posts.php:149
+msgid "Featured Posts"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1189
+msgid "You can choose to feature particular posts in hero section."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1214
+msgid "Use posts setup via Iki Toolkit plugin setttings"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1215
+msgid "You can go to \"Settings->Iki Toolkit->Featured posts\" and setup featured posts for the post type you want to use."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1244
+msgid "Specific posts"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1245
+msgid "Use specific posts, write post ID's comma separated"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1252
+msgid "Post source"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1254, includes/vc/class-wonder-grid-vc.php:113
+msgid "Post"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1259, includes/portfolio/class-portfolio-cpt.php:38, includes/portfolio/class-portfolio-cpt.php:39, includes/vc/class-wonder-grid-vc.php:114
+msgid "Portfolio"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1263, includes/team/class-team-member-cpt.php:39, includes/team/class-team-member-cpt.php:40, includes/vc/class-wonder-grid-vc.php:115
+msgid "Team Member"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1267
+msgid "Product"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1275
+msgid "Show only posts from this category"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1276
+msgid "If post doesn't belong to this category it won't be shown"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1307
+msgid "Enable hero section"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1358, includes/create-options/class-hero-section-options.php:1385
+msgid "Video background"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1361
+msgid "Please note: Video background will not be shown on mobile devices"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1362
+msgid ""
+"Video background severly affects bandwidth so it is disabled on mobile devices. It will\n"
+"						 also be removed on smaller screen sizes via media queries. On mobile\n"
+"				devices background image will be shown instead, so make sure you also setup background image."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1386
+msgid "Youtube videos only."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1387
+msgid "This option only supports youtube videos, all other links and video providers will be ignored."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1392
+msgid "Video quality"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1393
+msgid "Please note: High quality severly impacts load times."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1394
+msgid "Best to try with the \"small\" option and see if that looks good. If not try \"medium\" etc.."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1396
+msgid "Low"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1398
+msgid "High"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1404
+msgid "Pattern overlay"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1405
+msgid "Pattern overlay can hide artifacts in low quality videos. And it looks stylish."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1407
+msgid "none"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1408
+msgid "criss cross"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1409
+msgid "diagonal lines"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1410
+msgid "horizontal lines"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1411
+msgid "horizontal stripes"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1412
+msgid "vertical lines"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1413
+msgid "vertical stripes"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1414
+msgid "squares"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1415
+msgid "dots"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1416
+msgid "small checks"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1417
+msgid "medium checks"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1452, includes/create-options/velocity-options.php:152
+msgid "Animation IN"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1505
+msgid "Choose slider revolution"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1541, includes/create-options/class-hero-section-options.php:1545
+msgid "No sliders available"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1558
+msgid "Don't use row separator"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1559
+msgid "Tilt to left - small"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1560
+msgid "Tilt to left - medium"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1561
+msgid "Tilt to left - large"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1562
+msgid "Tilt to right - small"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1563
+msgid "Tilt to right - medium"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1564
+msgid "Tilt to right - large"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1565
+msgid "Arrow up center"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1566
+msgid "Arrow up left"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1567
+msgid "Arrow up right"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1568
+msgid "Circle"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1569
+msgid "Wave"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1588, includes/vc/class-image-grid-vc.php:112
+msgid "Image Grid"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1600
+msgid "Choose grid layout"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1606
+msgid "Hover design"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1609
+msgid "Lightbox symbol"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1610
+msgid "Image caption"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1614
+msgid "Ajax pagination"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1617
+msgid "If enabled some of the images will be loaded via ajax."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1618
+msgid "You can choose how many images you want loaded when the page loads. The rest of the images can be loaded on user request via ajax. "
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1631
+msgid "Number of images to load initially"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1632
+msgid "Please note that ajax pagination needs to be enabled"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1634
+msgid "All at once"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1660
+msgid "Grid design"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1691
+msgid "Project assets can be positioned horizontally or vertically on the page"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1692
+msgid "Project asset position"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1694
+msgid "Horizontal"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1695
+msgid "Vertical"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1703, includes/create-options/class-hero-section-options.php:1726
+msgid "Asset position"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1720
+msgid "Asset panel width"
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1721
+msgid "Width of the asset panel in realation to project info content."
+msgstr ""
+
+#: includes/create-options/class-hero-section-options.php:1722
+msgid "Project asset panel can have custom width. Project info will take the rest of the width. For example if the asset panel width is 60% project info will have 40% width."
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:24, includes/create-options/fs-panel-options.php:68
+msgid "Full Screen Panel 1"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:28, includes/create-options/fs-panel-options.php:72
+msgid "Full Screen Panel 2"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:122, includes/create-options/fs-panel-options.php:185
+msgid "Search panel"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:129
+msgid "Add search icon"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:161
+msgid "Search form"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:162
+msgid "Choose between searching the blog or searching Woocommerce products"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:164
+msgid "Blog Search"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:165
+msgid "Product Search"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:193
+msgid "Search element colors"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:200
+msgid "Search Background color"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:210
+msgid "Placeholder text color"
+msgstr ""
+
+#: includes/create-options/fs-panel-options.php:215
+msgid "Border bottom color"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:27
+msgid "External service options"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:31
+msgid "Setup external service"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:41
+msgid "Service"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:58
+msgid "Please note that you will need an API key in order to use the Flickr service."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:60
+msgctxt "Location for the required option"
+msgid "You can set it up at \"Settings -> Iki Toolkit\""
+msgstr ""
+
+#: includes/create-options/option-hooks.php:68
+msgid "Flickr user ID"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:69
+msgid "Please refer to help to find out how to get user id."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:70
+msgid "You can get flickr user id via this site: www.idgettr.com or for a demo, you can try this one : \"57803084@N07\" (without the quotes)"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:75
+msgid "Flickr photoset id"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:76
+msgid "If left empty, user photostream will be shown instead."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:77
+msgid "Photoset ID must be from the user you are using in \"Flickr user ID\". Please refer to theme documentation on how to get photoset id. For demo purposes you can try this photoset id \"72157631981970736\". Make user to use the demo flickr username ID as well."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:82
+msgid "Use high resolution images."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:83
+msgid "Please note that high resolution images drastically affect bandwith, and site load times."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:98
+msgid "Pinterest username"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:99
+msgid "You can try this username for a demo \"natgeo\""
+msgstr ""
+
+#: includes/create-options/option-hooks.php:104
+msgid "Pinterest board name"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:105
+msgid "If left empty, user latest pins will be shown instead"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:106
+msgid "You can try this board for a demo \"birds\", please note that you must use \"birds\" board with the demo username."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:117
+msgid "Check entered data"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:119
+msgid "Check"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:128, includes/create-options/option-hooks.php:149
+msgid "Server timeout"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:138
+msgid "Delete cache"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:139
+msgid "External content is cached for one day. Delete the cache if you changed you external content (added images to flickr or pinterest board, and you want to see new images immediately."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:141
+msgid "Delete"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:148
+msgid "Cache deleted"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:155
+msgid "Image animation in"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:156
+msgid "Image animation."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:160
+msgid "Random"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:165
+msgid "Stagger animation"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:166
+msgid "If YES, images are animated one by one. Otherwise, they are animated all at once."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:184
+msgid "Total number of images."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:185
+msgid "Total number of images that are going to be displayed from the service."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:186
+msgid "You can limit the number of images to be loaded."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:191
+msgid "Remove space between images in the grid."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:205
+msgid "Profile layout."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:210
+msgid "Show profile"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:211
+msgid "Show external service profile image. NOTE: Pinterest service can only have custom profile image, and \"hero\" section must be present."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:212
+msgid ""
+"Profile image width is fixed at 100px. So if your service gives you smaller image, best thing to do is to use\n"
+"custom profile image.Hero section must be present in order for profile image to be shown."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:230, includes/create-options/option-hooks.php:280
+msgid "Custom image for profile."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:240
+msgid "Profile image shape"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:242
+msgid "Round"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:249
+msgid "Profile image aligment"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:261
+msgid "Custom Profile"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:262
+msgid "Override profile image from external service, with custom image from media library."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:317
+msgid "Contact Page"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:321
+msgid "From my site : "
+msgstr ""
+
+#: includes/create-options/option-hooks.php:322
+msgid "Subject prefix"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:323
+msgid "Prefix for the subject line."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:324
+msgid "Prefix for the subject line that will appear in the email, if successifully sent. In default form the subject line is \"From my site : [user subject line]\""
+msgstr ""
+
+#: includes/create-options/option-hooks.php:329
+msgid "Email address destination"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:330
+msgid "Where should email message be sent."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:331
+msgid "Email address where you want to receive user messages."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:335
+msgid "Show phone field"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:336
+msgid "Field for user to leave her phone number"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:348
+msgid "Use custom question for contact form."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:349
+msgid "User will have to provide the correct answer for the question in order for the email to be sent."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:369
+msgid "Question"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:370
+msgid "Setup a question for user in contact form."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:371
+msgid "User must answer the question correctly in order to send the form. For example \"what is 2+2\". This is used against automated submisson attack."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:376
+msgid "Answer"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:377
+msgid "Answer for the question."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:378
+msgid "User must provide identical answer in order to send email."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:382
+msgid "Setup optional information"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:384
+msgid "Optional information to be shown next to the contact form menu"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:389, includes/functions/contact-functions.php:133
+msgid "Business hours"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:390
+msgid "Setup business hours"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:395, includes/functions/contact-functions.php:142
+msgid "Telephone"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:400, includes/functions/contact-functions.php:150
+msgid "Location"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:405, includes/create-options/option-hooks.php:500
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:429
+msgid "Project Setup"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:434
+msgid "Remove tags"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:435
+msgid "Remove tags from project info"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:448
+msgid "Remove categories"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:449
+msgid "Remove categories from project info"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:474
+msgid "Setup project data"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:476
+msgid "Setup specific project data. Empty fields won't be shown"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:482
+msgid "Client Info"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:488, includes/functions/portfolio-functions.php:168
+msgid "Skills"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:489
+msgid "Skills required for the project. After the skills text, portfolio tags will be printed."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:494
+msgid "Project URL"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:526
+msgid "Connect team member with blog author"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:530
+msgid "Use author contact data"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:531
+msgid "If YES, team member will inherit blog author contact data ( social profiles ).This is best used if team member is also an author on the site."
+msgstr ""
+
+#: includes/create-options/option-hooks.php:557, includes/create-options/option-hooks.php:564
+msgid "Team member contact links"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:562
+msgid "Setup contact links"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:574
+msgid "My social profiles text"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:575
+msgid "Text that appears before the social profiles icons"
+msgstr ""
+
+#: includes/create-options/option-hooks.php:576
+msgid "If left empty, default text will be used (\"My social profiles\")"
+msgstr ""
+
+#: includes/create-options/social-sharing.php:11
+msgid "Social sharing"
+msgstr ""
+
+#: includes/create-options/social-sharing.php:35, includes/create-options/social-sharing.php:37, includes/create-options/social-sharing.php:52
+msgid "Share services"
+msgstr ""
+
+#: includes/create-options/social-sharing.php:36
+msgid "Choose share services that you would like to enable throughout the site."
+msgstr ""
+
+#: includes/create-options/social-sharing.php:45
+msgid "Choose what services you wish to be shown on posts and pages."
+msgstr ""
+
+#: includes/create-options/social-sharing.php:46
+msgid "Users will be able to click on the share buttons and automatically share your site to chosen networks."
+msgstr ""
+
+#: includes/create-options/social-sharing.php:47
+msgid "Share buttons will generally be shown after posts and pages."
+msgstr ""
+
+#: includes/create-options/social-sharing.php:62
+msgid "Buffer"
+msgstr ""
+
+#: includes/create-options/social-sharing.php:63
+msgid "Digg"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:33
+msgid "Fade in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:34
+msgid "Flip X in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:35
+msgid "Flip Y in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:36
+msgid "Flip bounce X in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:37
+msgid "Flip bounce Y in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:38
+msgid "Swoop in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:39
+msgid "Whirl in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:40
+msgid "Shrink in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:41
+msgid "Expand in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:42
+msgid "Bounce in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:43
+msgid "Bounce up in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:44
+msgid "Bounce down in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:45
+msgid "Bounce left in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:46
+msgid "Bounce right in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:47
+msgid "Slide up in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:48
+msgid "Slide down in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:49
+msgid "Slide left in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:50
+msgid "Slide right in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:51
+msgid "Slide up big in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:52
+msgid "Slide down big in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:53
+msgid "Slide left big in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:54
+msgid "Slide right big in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:55
+msgid "Perspective up in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:56
+msgid "Perspective down in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:57
+msgid "Perspective left in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:58
+msgid "Perspective right in"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:62
+msgid "Fade out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:63
+msgid "Flip X out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:64
+msgid "Flip Y out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:65
+msgid "Flip bounce X out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:66
+msgid "Flip bounce Y out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:67
+msgid "Swoop out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:68
+msgid "Whirl out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:69
+msgid "Shrink out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:70
+msgid "Expand out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:71
+msgid "Bounce out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:72
+msgid "Bounce up out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:73
+msgid "Bounce down out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:74
+msgid "Bounce left out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:75
+msgid "Bounce right out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:76
+msgid "Slide up out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:77
+msgid "Slide down out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:78
+msgid "Slide left out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:79
+msgid "Slide right out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:80
+msgid "Slide up big out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:81
+msgid "Slide down big out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:82
+msgid "Slide left big out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:83
+msgid "Slide right bio out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:84
+msgid "Perspective up out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:85
+msgid "Perspective down out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:86
+msgid "Perspective left out"
+msgstr ""
+
+#: includes/create-options/velocity-options.php:87
+msgid "Perspective right out"
+msgstr ""
+
+#: includes/functions/contact-functions.php:23
+msgid "Must provide value"
+msgstr ""
+
+#: includes/functions/contact-functions.php:25
+msgid "Your Name"
+msgstr ""
+
+#: includes/functions/contact-functions.php:26
+msgid "Your Email"
+msgstr ""
+
+#: includes/functions/contact-functions.php:27
+msgid "Your Answer"
+msgstr ""
+
+#: includes/functions/contact-functions.php:30
+msgid "Subject"
+msgstr ""
+
+#: includes/functions/contact-functions.php:31
+msgid "Send us a message"
+msgstr ""
+
+#: includes/functions/contact-functions.php:44, includes/functions/contact-functions.php:51, includes/functions/contact-functions.php:67, includes/functions/contact-functions.php:79, includes/functions/contact-functions.php:92
+msgid "Required Field"
+msgstr ""
+
+#: includes/functions/contact-functions.php:76
+msgid "Invalid Email Address"
+msgstr ""
+
+#: includes/functions/contact-functions.php:87
+msgid "Question: "
+msgstr ""
+
+#: includes/functions/contact-functions.php:103
+msgid "I understand this email form collects my personal data in order to be contacted."
+msgstr ""
+
+#: includes/functions/contact-functions.php:108
+msgid "Send"
+msgstr ""
+
+#: includes/functions/contact-functions.php:109
+msgid "Send us your message"
+msgstr ""
+
+#: includes/functions/contact-functions.php:110
+msgid "Mail sent, thank You!"
+msgstr ""
+
+#: includes/functions/contact-functions.php:111
+msgid "Working"
+msgstr ""
+
+#: includes/functions/core-functions.php:552
+msgid "profile on Twitter "
+msgstr ""
+
+#: includes/functions/core-functions.php:608
+msgid " |  updated : "
+msgstr ""
+
+#: includes/functions/core-functions.php:620
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: includes/functions/core-functions.php:635
+msgid "Edit"
+msgstr ""
+
+#: includes/functions/core-functions.php:696, includes/functions/team-functions.php:30
+msgctxt "Title for the link to author social profile on some service"
+msgid "on "
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:74
+msgid "Panel %1$s "
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:101, includes/admin-settings/featured-posts/class-admin-featured-posts.php:125
+msgid "Search"
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:102
+msgid "Search the site"
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:132
+msgctxt "Full screen panel default default button text "
+msgid "Panel %1$s"
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:144
+msgctxt "menu search button text"
+msgid "Search"
+msgstr ""
+
+#: includes/functions/fs-panel-functions.php:148
+msgctxt "menu search button title attribute"
+msgid "Search the site"
+msgstr ""
+
+#: includes/functions/grid-functions.php:257
+msgid "Private: "
+msgstr ""
+
+#: includes/functions/hero-section-featured.php:523
+msgid "Read more "
+msgstr ""
+
+#: includes/functions/hero-section.php:508, includes/functions/hero-section.php:509
+msgid "Scroll down"
+msgstr ""
+
+#: includes/functions/portfolio-functions.php:134
+msgid "Client"
+msgstr ""
+
+#: includes/functions/portfolio-functions.php:182
+msgid "Project home"
+msgstr ""
+
+#: includes/functions/portfolio-functions.php:197
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions/team-functions.php:99
+msgid "My social Profiles"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:135
+msgid "sub item"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:151
+msgid "Move up"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:165
+msgid "Move down"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:168, includes/menu-walker/class-walker-menu-admin.php:170
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:179
+msgid "URL"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:188
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:197
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:209
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:215
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:224
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:233
+msgid "Description"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:239
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:245
+msgid "Move"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:247
+msgid "Up one"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:249
+msgid "Down one"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:253
+msgid "To the top"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:260
+msgid "Menu font awesome css icon (fa-info, fa-home etc..)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:269
+msgid "Menu Icon size"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:285
+msgid "Extra large"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:296
+msgid "Show dropdown arrow"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:301
+msgid "Force float menu item"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:323
+msgid "Z Index (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:340
+msgid "Insert stamp on the menu button"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:347
+msgid "Stamp Text"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:357
+msgid "Stamp Animation"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:365
+msgid "No Animation"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:390
+msgid "Stamp position :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:393
+msgid "If left empty, stamp will appear on the right side of the button text."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:396
+msgid "Please provide a value together with the unit (px,%)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:400
+msgid "Top (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:409
+msgid "Bottom (optional):"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:419
+msgid "Left (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:429
+msgid "Rotation of the stamp (optional) 0-360 :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:438
+msgid "Minimum width: Please provide unit together with the value. Can be left empty."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:450
+msgid "Mega Horizontal Columns"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:470
+msgid "Please note that \"Mega Menu Block\" and \"Mega Horizontal Columns\" are mutually exclusive options."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:478
+msgid "Mega Menu Block"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:510
+msgid "Mega menu width equals menu width"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:517
+msgid "Mega menu width equals theme fixed width"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:523
+msgid "Mega menu position"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:555
+msgid "Original: %s"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:568, includes/admin-settings/featured-posts/class-admin-featured-posts.php:279, includes/wonder-grid/admin/class-grid-admin.php:221, includes/wonder-grid/admin/class-grid-admin.php:263
+msgid "Remove"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:576
+msgid "Cancel"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:40, includes/portfolio/class-portfolio-cpt.php:41, includes/team/class-team-member-cpt.php:41, includes/team/class-team-member-cpt.php:42, includes/blocks/content-blocks/class-content-block-cpt.php:59, includes/blocks/content-blocks/class-content-block-cpt.php:60
+msgid "Add New"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:42
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:43
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:44
+msgid "All Portfolio items"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:45
+msgid "View item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:46
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:47
+msgid "No portfolio items found"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:48
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:83
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:84
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:85
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:86
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:89
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:90
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:91
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:92
+msgid "New Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:93, includes/team/class-team-member-cpt.php:87, includes/blocks/content-blocks/class-content-block-cpt.php:93, includes/blocks/content-blocks/class-content-block-cpt.php:103
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:108
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:109
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:110, includes/team/class-team-member-cpt.php:104
+msgid "Search Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:111, includes/team/class-team-member-cpt.php:105
+msgid "All Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:114
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:115
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:116
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:117
+msgid "New Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:118, includes/team/class-team-member-cpt.php:112
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:143, includes/team/class-team-member-cpt.php:136, includes/blocks/content-blocks/class-content-block-cpt.php:287
+msgid "All Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:43
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:44
+msgid "New Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:45
+msgid "All Team Members"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:46
+msgid "View Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:47
+msgid "Search Team Members"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:48
+msgid "No team members found"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:49
+msgid "No team members found in trash"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:77
+msgid "Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:78
+msgid "Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:79
+msgid "Search Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:80
+msgid "All Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:83
+msgid "Edit Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:84
+msgid "Update Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:85
+msgid "Add New Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:86
+msgid "New Team Member Category Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:102
+msgid " Tean Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:103
+msgid "Team Member Tags"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:108
+msgid "Edit Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:109
+msgid "Update Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:110
+msgid "Add New Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:111
+msgid "New Team Member Tag"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:55, includes/vc/class-image-slider-vc.php:61, includes/vc/class-img-bg-vc.php:44
+msgid "Select images from media library"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:64, includes/vc/class-image-slider-vc.php:88
+msgid "Image click"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:69, includes/vc/class-image-slider-vc.php:93
+msgid "Link to large image"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:70, includes/vc/class-image-slider-vc.php:94
+msgid "Custom link"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:85, includes/vc/class-image-slider-vc.php:109
+msgid "Custom links"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:86, includes/vc/class-image-slider-vc.php:110
+msgid "Enter links for each image (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:102, includes/vc/class-image-slider-vc.php:117, includes/vc/class-img-bg-vc.php:137, includes/vc/class-post-listing.php:88, includes/vc/class-post-slider.php:76, includes/vc/class-pricing-item.php:149, includes/vc/class-share-icons.php:69, includes/vc/class-social-profiles.php:64, includes/vc/class-theme-social-profiles.php:98, includes/vc/class-title-vc.php:87, includes/vc/class-wonder-grid-vc.php:166
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:105, includes/vc/class-image-slider-vc.php:120, includes/vc/class-img-bg-vc.php:140, includes/vc/class-post-listing.php:91, includes/vc/class-post-slider.php:79, includes/vc/class-pricing-item.php:152, includes/vc/class-share-icons.php:72, includes/vc/class-social-profiles.php:67, includes/vc/class-theme-social-profiles.php:101, includes/vc/class-title-vc.php:90, includes/vc/class-wonder-grid-vc.php:169
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS"
+msgstr ""
+
+#: includes/vc/class-image-grid-vc.php:114, includes/vc/class-image-slider-vc.php:135, includes/vc/class-img-bg-vc.php:160, includes/vc/class-post-listing.php:121, includes/vc/class-post-slider.php:111, includes/vc/class-pricing-item.php:53, includes/vc/class-share-icons.php:82, includes/vc/class-social-profiles.php:91, includes/vc/class-theme-social-profiles.php:113, includes/vc/class-title-vc.php:132, includes/vc/class-wonder-grid-vc.php:219
+msgid "Iki Themes"
+msgstr ""
+
+#: includes/vc/class-image-slider-vc.php:68, includes/vc/class-img-bg-vc.php:47, includes/vc/class-post-options.php:226
+msgid "Image orientation"
+msgstr ""
+
+#: includes/vc/class-image-slider-vc.php:83, includes/vc/class-post-options.php:221
+msgid "Choose image size, leave empty for default value"
+msgstr ""
+
+#: includes/vc/class-image-slider-vc.php:124, includes/vc/class-post-slider.php:36
+msgid "Slider options"
+msgstr ""
+
+#: includes/vc/class-image-slider-vc.php:125
+msgid "Slider design"
+msgstr ""
+
+#: includes/vc/class-image-slider-vc.php:133
+msgid "Image Slider"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:20
+msgid "Colors"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:62
+msgid "Choose image size, leave empty for default value (depends on image orientation)"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:65
+msgid "Background size "
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:75
+msgid "Background position "
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:91
+msgid "Background repeat "
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:102
+msgid "Background attachment "
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:112, includes/vc/class-pricing-item.php:225
+msgid "Animate on hover"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:115, includes/vc/class-post-listing.php:82, includes/vc/class-post-options.php:152, includes/vc/class-post-options.php:245, includes/vc/class-post-options.php:255, includes/vc/class-post-options.php:265, includes/vc/class-post-options.php:275, includes/vc/class-post-options.php:285, includes/vc/class-pricing-item.php:228, includes/vc/class-slider-options.php:43, includes/vc/class-slider-options.php:52, includes/vc/class-slider-options.php:63, includes/vc/class-slider-options.php:72, includes/vc/class-slider-options.php:82, includes/vc/class-slider-options.php:92, includes/vc/class-slider-options.php:101, includes/vc/class-slider-options.php:111, includes/vc/class-slider-options.php:137, includes/vc/class-wonder-grid-vc.php:98, includes/vc/vc-utils.php:1176, includes/vc/vc-utils.php:1188
+msgid "yes"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:123
+msgid "Scale up"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:128
+msgid "Border radius "
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:131
+msgid "Use values together with units (10px or 50%)"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:148
+msgid "Color to be shown above the image"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:149
+msgid "Overlay color"
+msgstr ""
+
+#: includes/vc/class-img-bg-vc.php:158
+msgid "Image as background"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:35
+msgid "Design first post"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:36
+msgid "Design other posts"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:37
+msgid "First post"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:38
+msgid "Other posts"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:39, includes/vc/class-post-slider.php:34, includes/vc/class-wonder-grid-vc.php:90, includes/vc/class-wonder-grid-vc.php:100
+msgid "Post query"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:40
+msgid "Font sizes first post"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:41
+msgid "Font sizes other posts"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:78
+msgid "Show horizontal line between posts"
+msgstr ""
+
+#: includes/vc/class-post-listing.php:119
+msgid "Post Listing"
+msgstr ""
+
+#: includes/vc/class-post-options.php:77
+msgid "Taxonomy color source"
+msgstr ""
+
+#: includes/vc/class-post-options.php:81
+msgid "Custom"
+msgstr ""
+
+#: includes/vc/class-post-options.php:82
+msgid "From theme"
+msgstr ""
+
+#: includes/vc/class-post-options.php:89
+msgid "Taxonomy text"
+msgstr ""
+
+#: includes/vc/class-post-options.php:96
+msgid "Taxonomy background"
+msgstr ""
+
+#: includes/vc/class-post-options.php:103, includes/vc/class-title-vc.php:61
+msgid "Title"
+msgstr ""
+
+#: includes/vc/class-post-options.php:109
+msgid "Title hover"
+msgstr ""
+
+#: includes/vc/class-post-options.php:140, includes/vc/class-wonder-grid-vc.php:86
+msgid "Posts query"
+msgstr ""
+
+#: includes/vc/class-post-options.php:149, includes/vc/class-wonder-grid-vc.php:95
+msgid "Remove sticky posts"
+msgstr ""
+
+#: includes/vc/class-post-options.php:171, includes/vc/class-post-slider.php:33
+msgid "Post layout"
+msgstr ""
+
+#: includes/vc/class-post-options.php:175
+msgid "With Image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:176
+msgid "No image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:181
+msgid "Image layout"
+msgstr ""
+
+#: includes/vc/class-post-options.php:185
+msgid "On the side"
+msgstr ""
+
+#: includes/vc/class-post-options.php:186
+msgid "Full width image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:192, includes/vc/class-post-options.php:204
+msgid "Post title location"
+msgstr ""
+
+#: includes/vc/class-post-options.php:196
+msgid "Inside image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:197
+msgid "Below image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:198, includes/vc/class-post-options.php:209
+msgid "Above image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:208
+msgid "Besides image"
+msgstr ""
+
+#: includes/vc/class-post-options.php:233
+msgid "Landscape - very thin"
+msgstr ""
+
+#: includes/vc/class-post-options.php:240
+msgid "Show post subtitle"
+msgstr ""
+
+#: includes/vc/class-post-options.php:241
+msgid "If post subtitle is available"
+msgstr ""
+
+#: includes/vc/class-post-options.php:251
+msgid "Show post excerpt"
+msgstr ""
+
+#: includes/vc/class-post-options.php:261
+msgid "Show post date"
+msgstr ""
+
+#: includes/vc/class-post-options.php:271
+msgid "Show number of comments"
+msgstr ""
+
+#: includes/vc/class-post-options.php:281
+msgid "Show taxonomy"
+msgstr ""
+
+#: includes/vc/class-post-options.php:291
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/vc/class-post-options.php:294
+msgid "Choose taxonomy (default is \"category\" for post. Use \"iki_portfolio_cat\" for portfolio. Use \"iki_team_member_cat\" for team members"
+msgstr ""
+
+#: includes/vc/class-post-slider.php:32
+msgid "Post colors"
+msgstr ""
+
+#: includes/vc/class-post-slider.php:35
+msgid "Font sizes post"
+msgstr ""
+
+#: includes/vc/class-post-slider.php:93
+msgid "Slider Responsive Options"
+msgstr ""
+
+#: includes/vc/class-post-slider.php:94
+msgid "Slider Colors"
+msgstr ""
+
+#: includes/vc/class-post-slider.php:109
+msgid "Post Slider"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:22
+msgctxt "example text for shortcode"
+msgid "$99"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:51
+msgid "Pricing Item"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:61
+msgid "Text label top"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:68
+msgid "Text above the price"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:73
+msgid "Text above size"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:74
+msgid "You must provide the units (\"px\" or \"em\") default is around 20px "
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:83
+msgid "Price text"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:88
+msgid "Price size"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:89
+msgid "You must provide the units (\"px\" or \"em\") default is around 80px "
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:97
+msgid "Text below the price"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:98
+msgid "Every line will be a separate html \"<div>\" tag"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:104
+msgid "Main text"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:112, includes/vc/class-pricing-item.php:120, includes/vc/class-pricing-item.php:131, includes/vc/class-pricing-item.php:144
+msgid "Button"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:117
+msgid "Button Link"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:118
+msgid "You need to have URL in order for the button to be shown"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:126
+msgid "Below main text"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:127
+msgid "Above main text"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:129
+msgid "Button position"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:137
+msgid "Full width"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:142
+msgid "Button width"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:158
+msgid "Top label text color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:166
+msgid "Top label background color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:174
+msgid "Price text color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:180
+msgid "Price background color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:187
+msgid "Body text color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:193
+msgid "Body background color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:201
+msgid "Border width"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:202
+msgid "Value is in pixels, no units (default is 1px)"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:208
+msgid "Border color"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:220
+msgid "Shadow"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:237
+msgid "Pull up"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:238
+msgid "Stretch"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:250, includes/vc/class-pricing-item.php:257, includes/vc/class-pricing-item.php:264, includes/vc/class-pricing-item.php:271
+msgid "Button Design"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:255
+msgid "Text color on hover"
+msgstr ""
+
+#: includes/vc/class-pricing-item.php:269
+msgid "Background color on hover"
+msgstr ""
+
+#: includes/vc/class-share-icons.php:49, includes/vc/class-social-profiles.php:44, includes/vc/class-theme-social-profiles.php:72
+msgid "Icon aligment"
+msgstr ""
+
+#: includes/vc/class-share-icons.php:60
+msgid "Services"
+msgstr ""
+
+#: includes/vc/class-share-icons.php:64
+msgid "Check services that you wish to be shown."
+msgstr ""
+
+#: includes/vc/class-share-icons.php:80
+msgid "Share Buttons"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:40
+msgid "Show slider arrows"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:49
+msgid "Place arrows outside of slider"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:59
+msgid "Slider center mode"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:61
+msgid "One slider will always be in the center of slider"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:69
+msgid "Use \"fade\" animation"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:78
+msgid "Use adaptive height"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:80
+msgid "Enables adaptive height for single slide horizontal carousels."
+msgstr ""
+
+#: includes/vc/class-slider-options.php:88
+msgid "No space between slides"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:90
+msgid "This option might not look nice depending on the slider design."
+msgstr ""
+
+#: includes/vc/class-slider-options.php:98
+msgid "Use \"dots\" navigation"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:107
+msgid "Slider has \"infinite\" scrolling"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:109
+msgid "Slider can slide in one direction indefinetely"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:118
+msgid "Number of visible slides"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:120
+msgid "How many slides are visible at any moment"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:126
+msgid "Number of slides to scroll at once"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:133
+msgid "Remove autoplay"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:135
+msgid "Slider won't be automatically animated"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:156
+msgid "Number of visible slides on EXTRA SMALL screen (up to 700px)"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:163
+msgid "Number of visible slides on SMALL SCREEN (up to 992px)"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:170
+msgid "Number of visible slides on MEDIUM screen (up to 1200px)"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:172
+msgid "Leave empty for default value from \"Number of visible slides\""
+msgstr ""
+
+#: includes/vc/class-slider-options.php:178
+msgid "Number of slides to scroll at once on EXTRA SMALL screen"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:185
+msgid "Number of slides to scroll at once on SMALL SCREEN"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:187, includes/vc/class-slider-options.php:195
+msgid "Leave empty for default value from \"Number of slides to scroll at once\""
+msgstr ""
+
+#: includes/vc/class-slider-options.php:193
+msgid "Number of slides to scroll at once on MEDIUM screen"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:214
+msgid "Arrows"
+msgstr ""
+
+#: includes/vc/class-slider-options.php:220
+msgid "Dots"
+msgstr ""
+
+#: includes/vc/class-social-profiles.php:55
+msgid "Tooltitp Text"
+msgstr ""
+
+#: includes/vc/class-social-profiles.php:59, includes/vc/class-theme-social-profiles.php:86
+msgid "Note : service name is appended at the end of the tooltip text  "
+msgstr ""
+
+#: includes/vc/class-social-profiles.php:89
+msgid "Social Profiles Buttons"
+msgstr ""
+
+#: includes/vc/class-theme-social-profiles.php:91
+msgid "Select Services"
+msgstr ""
+
+#: includes/vc/class-theme-social-profiles.php:111
+msgid "Theme Social Profiles"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:65
+msgid "Title HTML tag"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:69
+msgid "H2"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:70
+msgid "H1"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:71
+msgid "H3"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:72
+msgid "H4"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:73
+msgid "H5"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:74
+msgid "H6"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:81
+msgid "Title link"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:99
+msgid "Title color"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:106
+msgid "Title background"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:111
+msgid "Title Design"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:116
+msgid "Small width border"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:117
+msgid "Full width border"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:118
+msgid "Full width background "
+msgstr ""
+
+#: includes/vc/class-title-vc.php:125
+msgid "Media query"
+msgstr ""
+
+#: includes/vc/class-title-vc.php:130
+msgid "Title Link"
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:110
+msgid "Post type"
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:129, includes/vc/class-wonder-grid-vc.php:142, includes/vc/class-wonder-grid-vc.php:155
+msgid "Please note that this field will not take effect if you choose any grid that starts with [Blog .....] "
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:178, includes/vc/vc-utils.php:385
+msgid "Small screen"
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:181, includes/vc/class-wonder-grid-vc.php:195, includes/vc/class-wonder-grid-vc.php:208, includes/vc/vc-utils.php:388, includes/vc/vc-utils.php:400, includes/vc/vc-utils.php:411
+msgid "Active as long as the minimum screen width is %1$s "
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:182, includes/vc/class-wonder-grid-vc.php:196, includes/vc/class-wonder-grid-vc.php:209
+msgid "Font Size"
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:192, includes/vc/vc-utils.php:397
+msgid "Medium screen"
+msgstr ""
+
+#: includes/vc/class-wonder-grid-vc.php:204, includes/vc/vc-utils.php:407
+msgid "Large screen"
+msgstr ""
+
+#: includes/vc/vc-utils.php:263
+msgctxt "Text for the link sharing button "
+msgid "Share on "
+msgstr ""
+
+#: includes/vc/vc-utils.php:869
+msgid "Sale!"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1048
+msgid "More Details"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1128
+msgid "Icon Design"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1132
+msgid "Pre made"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1133
+msgid "Icon only color"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1134
+msgid "Icon and background color"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1136, includes/vc/vc-utils.php:1149
+msgid "Select the design for the social buttons"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1141
+msgid "Pre made design"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1145
+msgid "Dark"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1146
+msgid "Light"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1147
+msgid "Social Service Color "
+msgstr ""
+
+#: includes/vc/vc-utils.php:1156
+msgid "Icon color"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1166
+msgid "Icon background"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1172
+msgid "Rounded icons"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1178
+msgid "Please note that \"rounded\" icon and \"spread\" icon options are mutually exclusive"
+msgstr ""
+
+#: includes/vc/vc-utils.php:1184
+msgid "Stretch icons"
+msgstr ""
+
+#: includes/widgets/class-recent-posts-with-thumbs.php:26
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: includes/widgets/class-recent-posts-with-thumbs.php:29
+msgid "Iki Themes Recent Posts With Thumbnails"
+msgstr ""
+
+#: includes/widgets/class-recent-posts-with-thumbs.php:46
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/class-recent-posts-with-thumbs.php:89
+msgid "(no title)"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:23, includes/wonder-grid/class-wonder-grid-cpt.php:24
+msgid "Add new"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:25
+msgid "Edit grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:26
+msgid "New grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:27
+msgid "All grids"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:28
+msgid "View grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:29
+msgid "Search grids"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:30
+msgid "No grids found"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:31
+msgid "No grids found in trash"
+msgstr ""
+
+#: partials/hero-section/hs-not-found.php:8
+msgid "Oops! Page Not Found."
+msgstr ""
+
+#: partials/hero-section/hs-not-found.php:13
+msgid "(This is 404 - page not found demo)"
+msgstr ""
+
+#: partials/hero-section/hs-portfolio-featured.php:10
+msgctxt "Featured portfolio project"
+msgid "Featured Project"
+msgstr ""
+
+#: partials/hero-section/hs-portfolio-featured.php:15
+msgctxt "Featured portfolio post read more link"
+msgid "Read More"
+msgstr ""
+
+#: partials/hero-section/hs-post-featured.php:11
+msgctxt "Featured blog post story"
+msgid "Featured Story"
+msgstr ""
+
+#: partials/hero-section/hs-post-featured.php:26
+msgctxt "Featured blog post read more link"
+msgid "Read More"
+msgstr ""
+
+#: partials/hero-section/hs-post.php:36
+msgid "Go to comments section"
+msgstr ""
+
+#: partials/hero-section/hs-product-featured.php:9
+msgctxt "Featured product sign"
+msgid "New in shop"
+msgstr ""
+
+#: partials/hero-section/hs-product-featured.php:15
+msgctxt "Featured portfolio post read more link"
+msgid "Shop now"
+msgstr ""
+
+#: partials/hero-section/hs-search-result.php:8
+msgid "Search result for : "
+msgid_plural "Search Results for :"
+msgstr[0] ""
+msgstr[1] ""
+
+#: partials/hero-section/hs-search-result.php:14
+msgid "Nothing Found for: "
+msgstr ""
+
+#: partials/hero-section/hs-team-featured.php:10
+msgctxt "Featured team member post"
+msgid "Featured Team Member"
+msgstr ""
+
+#: partials/hero-section/hs-team-featured.php:15
+msgctxt "Featured team member post read more link"
+msgid "Read More"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:10
+msgid "API Keys"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:31
+msgid "Setup your API keys for various online services"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:49
+msgid "Test Flickr API key"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:93
+msgid "API key is ok"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:94
+msgid "API key is wrong"
+msgstr ""
+
+#: includes/admin-settings/api-keys/class-api-keys-section.php:95
+msgid "Server timeout out, please try again"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:63
+msgid "Depending on the theme, featured posts can be shown in various places (hero section, sidebar, footer)"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:108
+msgid "Remove featured post from main query"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:126
+msgid "No posts found"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:127
+msgid "Server error"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:129
+msgid "Add selected posts"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:140
+msgid "Remove post"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:203
+msgid "Featured post"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:210
+msgid "Modify hero section (if available) of this post when it get's featured in some other hero section."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:215
+msgid "Remove video background"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:216
+msgid "Remove video background when this post get's featured in some hero section"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:217
+msgid "If this post has video background in hero section, when it get's featured in some hero section, only image background will be shown. Video background will be removed"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:223
+msgid "Featured text above post title"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:228
+msgid "Remove post title"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:234
+msgid "Remove post subtitle"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:240
+msgid "Remove image and color background"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:241
+msgid "If this post has image and color background in hero section, when it get's featured in some hero section image and color background, as well as \"overlay\" will be removed."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:245
+msgid "Remove custom content"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:246
+msgid "Remove custom content from hero section."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:247
+msgid "If this post has custom content in hero section, when it get's featured in some hero section, custom content will be removed."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:268
+msgid "Show post excerp"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:269
+msgid "Show post excerp instead of custom content"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:275
+msgid "Row separator"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:276
+msgid "Remove row separator from hero section."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:277
+msgid "If this post has row separator in hero section, when it get's featured in some hero section, row separator will be removed. You can also choose to use the row separtor from the hero section where the post is going to be featured by choosing \"Use parent row separator\""
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:280
+msgid "Keep"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:281
+msgid "Use parent row separator"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:285
+msgid "Change content layout"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:288
+msgid "Change this post hero section content layout when it get's featured."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:311
+msgid "Horizontal alignment of the content inside the hero section"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:312, includes/admin-settings/featured-posts/class-admin-featured-posts.php:325
+msgid "You can also choose to use alignment from the hero section where the post is going to be featured by choosing \"Use alignment setup by parent\""
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:314, includes/admin-settings/featured-posts/class-admin-featured-posts.php:327
+msgid "Use alignment setup by parent"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:323
+msgid "Content vertical alignment"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:324
+msgid "Vertical alignment of the content inside the hero section"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:337
+msgid "Change hero section layout"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:340
+msgid "Change this post hero section layout when it get's featured in some other hero section"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:364
+msgid "You can also choose to use the width from the hero section where the post is going to be featured by choosing \"Use width setup by parent\""
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:366
+msgid "Use width setup by parent"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:376
+msgid "You can also choose to use the height from the hero section where the post is going to be featured by choosing \"Use height setup by parent\""
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:378
+msgid "Use height setup by parent"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:392
+msgid "Remove custom colors"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:393
+msgid "Remove hero section custom colors"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:395
+msgid "You can remove the custom colors from hero section when this post get's featured in some hero section."
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:400
+msgid "Featured sign text"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:401
+msgid "Leave empty for default text"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:404
+msgid "Custom featured sign colors"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:407
+msgid "Featured sign can have custom colors"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:441
+msgid "Add read more link"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:442
+msgid "Link to the post page"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:449
+msgid "Read more link design"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:451
+msgid "Simple"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:452
+msgid "Hollow"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:453
+msgid "Hollow round"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:454
+msgid "Hollow round 2"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:455
+msgid "Hollow round 3"
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:478
+msgid "Add \"shop now\" button\""
+msgstr ""
+
+#: includes/admin-settings/featured-posts/class-admin-featured-posts.php:479
+msgid "Link to the product page"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:31
+msgid "Content block updated"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:34
+msgid "Content block published"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:37
+msgid "Content block submitted"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:40
+msgid "Content block scheduled"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:43
+msgid "Content block draft updated"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:56
+msgctxt "post type general name"
+msgid "Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:57
+msgctxt "post type singular name"
+msgid "Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:58
+msgctxt "post type plural name"
+msgid "Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:61
+msgid "All Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:62
+msgid "Edit Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:63
+msgid "New Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:64
+msgid "View Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:65
+msgid "Search Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:66
+msgid "No Content Blocks Found"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:67
+msgid "No Content Blocks found in Trash"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:94
+msgid "Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:95
+msgid "Search Content block Categories"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:96
+msgid "All Content block Categories"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:99
+msgid "Edit Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:100
+msgid "Update Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:101
+msgid "Add New Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:102
+msgid "New Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:127
+msgid "For content blocks that can be selected for mega menu"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:134
+msgid "For content blocks that can be selected for author pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:141
+msgid "For content blocks that can be selected for portfolio pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:147
+msgid "For content blocks that can be selected for portfolio archive pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:154
+msgid "For content blocks that can be selected for team member pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:160
+msgid "For content blocks that can be selected for team member archive pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:167
+msgid "For content blocks that can be selected for Portfolio project section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:174
+msgid "For content blocks that can be selected everyhere ( Portfolio, Team Member etc.) Except in Portfolio Project."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:181
+msgid "For content blocks that can be selected for Header section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:189
+msgid "For content blocks that can be selected for Hero section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:197
+msgid "For content blocks to be used in widgets"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:205
+msgid "For content blocks to be used in pages"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:213
+msgid "For content blocks to be used in blog posts"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:221
+msgid "For content blocks to be used in blog archive pages (categories)"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:229
+msgid "For content blocks to be used in Portfolio hero section"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:237
+msgid "For content blocks to be used in Team member hero section"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:244
+msgid "For content blocks to be used in blog post hero section"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:251
+msgid "For content blocks to be used in page hero section"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:259
+msgid "For content blocks to be used in Product hero section"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:267
+msgid "For content blocks to be used in full screen panels"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:274
+msgid "For content blocks to be used on single product pages"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:280
+msgid "For content blocks to be used for product archives"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:23
+msgid "Displays Content block in a widget"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:24
+msgid "Iki Themes Content Block Widget"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:52
+msgid "Content Block to Display:"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:99
+msgid "Edit selected content block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:137
+msgid "Find"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:103
+msgid "Grid Construction"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:114
+msgid "Grid Options"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:137
+msgid "No gaps between cells"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:141
+msgid "If checked, there will be no gaps between cells in the grid."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:147
+msgid "Grid classes"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:155
+msgid "Extra classes to be added to grid (use space for separation)"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:162
+msgid "Fill Grid"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:166
+msgid "If there is not enough posts or assets to fill all the columns (cells) in the last row, grid will try to modify columns in the last row, so there are no empty columns at the end."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:169
+msgid "For example, if last row has 4 columns but 2 columns are left empty, grid will modify that row to have only two columns, so it doesn't appear empty."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:171
+msgid "Please note that this only works if the last row is not a \"Mixed row\"."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:194
+msgid "Total cells in grid : "
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:199
+msgid "Insert new"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:201
+msgid "Classic Row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:204
+msgid "or insert new"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:206
+msgid "Mixed Row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:216, includes/wonder-grid/admin/class-grid-admin.php:258
+msgid "Options for this type of row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:217, includes/wonder-grid/admin/class-grid-admin.php:259
+msgid "Options"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:218, includes/wonder-grid/admin/class-grid-admin.php:260
+msgid "Duplicate row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:219, includes/wonder-grid/admin/class-grid-admin.php:261
+msgid "Duplicate"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:220, includes/wonder-grid/admin/class-grid-admin.php:262
+msgid "Remove row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:224
+msgid "Orientation :"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:235
+msgid "Columns :"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:244, includes/wonder-grid/admin/class-grid-admin.php:288
+msgid "Close Panel"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:266
+msgid "Available Mixed Rows"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:69
+msgid ""
+"Failure: API token for Flickr service is not set.\n"
+"				 Please setup your access token via settings->iki toolkit(plugin)->API keys"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:90
+msgid "Failure: Flickr API Key is incorrect, please check your key."
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:96
+msgid "Failure: user \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:101
+msgid "Failure: photoset \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:115
+msgid "Success: user \"%1$s\" found."
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:120
+msgid "Success: photoset \"%1$s\" found."
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:152
+msgid "Success: user  \"%1$s\" found"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:159
+msgid "Success: \"%1$s\" board found."
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-external-api-data-check.php:167
+msgid "Server error or service API unavailable"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-pinterest-api.php:56
+msgid "Error connecting to pinterest server"
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-pinterest-api.php:83
+msgid "Failure: \"%1$s\" user not found."
+msgstr ""
+
+#: includes/admin-settings/api-keys/api/class-pinterest-api.php:129
+msgid "Failure: \"%1$s\" board not found."
+msgstr ""

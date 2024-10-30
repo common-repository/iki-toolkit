@@ -1,0 +1,33 @@
+$sass-success-check: ''; //validation variable (success if not present after compilation)
+
+.iki-fs-panel-#{$panelId} {
+
+  @if ($panel_custom_colors) {
+
+	@include fs-panel-design(
+					$fs_panel_color,
+					$fs_panel_title_color,
+					$fs_panel_link_color,
+					$fs_panel_link_color_hover,
+					$fs_panel_url_bg,
+					$fs_panel_color_bg,
+					$fs_panel_repeat_bg,
+					$fs_panel_position_bg,
+					$fs_panel_size_bg,
+					$fs_panel_close_btn_color,
+					$fs_panel_close_btn_bg_color,
+					$fs_panel_overlay_bg_color
+	);
+
+  }
+
+  @if ($panel-el-search) {
+	.search-ui {
+	  @include fs-search-colors(
+					  $fs_panel_el_border_color,
+					  $fs_panel_el_bg_color,
+					  $fs_panel_el_color,
+					  $fs_panel_el_ph_color);
+	}
+  }
+}

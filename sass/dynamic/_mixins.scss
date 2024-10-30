@@ -1,0 +1,109 @@
+@function get-contrast-color($color,$amount) {
+
+  @if (lightness( $color ) > 0.5) {
+
+	@return darken($color, $amount);
+
+  } @else {
+
+	@return lighten($color, $amount);
+
+  }
+}
+
+@mixin clearfix {
+  &::after {
+	clear: both;
+	content: "";
+	display: table;
+  }
+}
+
+//FS PANEL MIXINS
+@mixin fs-panel-design(
+  $color:null,
+  $title-color:null,
+  $link-color:null,
+  $link-color-hover:null,
+  $background-url:null,
+  $background-color:null,
+  $background-repeat:repeat,
+  $background-position:top left,
+  $background-size:cover,
+  $close-btn-color:null,
+  $close-btn-bg-color:null,
+  $panel-overlay-bg:null,
+  $generate-input-colors:true) {
+
+  color: $color;
+  background-color: $background-color;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+	color: $title-color;
+  }
+
+  @if ($background-url) {
+
+	background-size: $background-size;
+	background-repeat: $background-repeat;
+	background-image: $background-url;
+	background-position: $background-position;
+  }
+
+  a {
+	color: $link-color;
+	&:focus,
+	&:hover {
+	  color: $link-color-hover;
+	}
+  }
+
+  .panel-overlay {
+	background-color: $panel-overlay-bg;
+  }
+  .iki-close-btn {
+
+	color: $close-btn-color;
+	background-color: $close-btn-bg-color;
+  }
+  @if ($generate-input-colors) {
+
+	input,
+	textarea,
+	select,
+	.search-btn {
+
+	  background-color: get-contrast-color($background-color, 8%);
+
+	  &:focus,
+	  &:hover {
+		background-color: get-contrast-color($background-color, 10%);
+	  }
+
+	  &::placeholder {
+		color: $color;
+	  }
+	}
+  }
+}
+
+@mixin fs-search-colors($borderColor:null,$background:null,$color:null,$placeholderColor:null) {
+
+  .search-form-wrapper {
+	border-bottom-color: $borderColor;
+	background-color: $background;
+	form {
+	  input {
+		color: $color;
+	  }
+	  input::placeholder {
+		color: $placeholderColor;
+	  }
+	}
+  }
+}

@@ -1,0 +1,166 @@
+.iki-grid-wrapper {
+  overflow: hidden;
+  margin-top: 30px; }
+  .iki-grid-wrapper .grid-item {
+    height: 100%; }
+
+.iki-grid-row {
+  margin-bottom: 0;
+  position: relative;
+  text-align: center;
+  text-align: center; }
+
+.iki-grid-thumb {
+  display: inline-block;
+  z-index: 1;
+  vertical-align: top;
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 10px; }
+  .iki-grid-thumb:first-child {
+    margin-left: 0; }
+  .iki-row-cells-1 .iki-grid-thumb {
+    margin-left: 0;
+    margin-right: 0; }
+  .iki-row-cells-2 .iki-grid-thumb {
+    width: 48%; }
+  .iki-row-cells-1.iki-row-orientation-portrait .iki-grid-thumb {
+    width: 40%; }
+  .iki-row-cells-2.iki-row-orientation-portrait .iki-grid-thumb .iki-cell {
+    padding-bottom: 120%; }
+  .iki-row-cells-3.iki-row-orientation-portrait .iki-grid-thumb .iki-cell {
+    padding-bottom: 140%; }
+  .iki-row-cells-3 .iki-grid-thumb {
+    width: 31%; }
+  .iki-row-cells-4 .iki-grid-thumb {
+    width: 23%; }
+  .iki-row-cells-5 .iki-grid-thumb {
+    width: 18%; }
+
+[dir=rtl] .iki-grid-thumb {
+  margin-left: 0;
+  margin-right: 10px; }
+  [dir=rtl] .iki-grid-thumb:first-child {
+    margin-right: 0; }
+
+body.wp-admin.post-type-iki_wonder_grid #message.updated a {
+  display: none; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-pos-sidebar .iki-ui-input {
+  margin-top: 10px;
+  float: none;
+  width: 100%;
+  max-width: 100%; }
+  body.wp-admin.post-type-iki_wonder_grid .iki-pos-sidebar .iki-ui-input input[type="text"] {
+    width: 100%;
+    max-width: 100%; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-row-ui {
+  font-size: 1.1rem;
+  text-align: center;
+  margin: 0 auto;
+  z-index: 2; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-new-row-btn {
+  vertical-align: middle; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-grid-wrapper {
+  max-width: 700px;
+  margin: 15px auto;
+  border: 1px dotted #D9D9D9;
+  padding: 0 15px 15px;
+  border-radius: 10px; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-row-type-mixed {
+  padding-top: 15px; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-row-wrapper {
+  margin-top: 15px;
+  padding-top: 10px;
+  position: relative;
+  background-color: #F1F1F1;
+  border-radius: 5px; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-classic-row-ui {
+  background-color: white;
+  border: 1px solid #D9D9D9;
+  text-align: left;
+  margin-top: 5px;
+  padding-left: 15px;
+  border-radius: 5px;
+  position: relative;
+  display: none;
+  top: auto;
+  left: 0;
+  bottom: 100%; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-ui-selected {
+  background-color: #F0D4AF !important; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-close-options {
+  margin-left: 0; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-insert-new-ui-wrap {
+  text-align: center;
+  background-color: #F1F1F1;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 5px; }
+  body.wp-admin.post-type-iki_wonder_grid .iki-insert-new-ui-wrap .button-secondary,
+  body.wp-admin.post-type-iki_wonder_grid .iki-insert-new-ui-wrap p {
+    font-size: 1.4rem;
+    display: inline-block;
+    margin: 7.5px; }
+  body.wp-admin.post-type-iki_wonder_grid .iki-insert-new-ui-wrap .button-secondary {
+    height: auto;
+    line-height: 1;
+    padding: 1rem; }
+
+body.wp-admin.post-type-iki_wonder_grid .mixed-row-btn-wrap .mixed-row-btn {
+  max-width: 120px;
+  display: inline-block;
+  cursor: pointer;
+  border: 3px solid transparent; }
+  body.wp-admin.post-type-iki_wonder_grid .mixed-row-btn-wrap .mixed-row-btn img {
+    width: 100%;
+    height: auto; }
+  body.wp-admin.post-type-iki_wonder_grid .mixed-row-btn-wrap .mixed-row-btn.iki-selected {
+    border: 3px solid #ffd6a0; }
+
+body.wp-admin.post-type-iki_wonder_grid img.iki-current-row {
+  width: 100%;
+  height: auto; }
+
+body.wp-admin.post-type-iki_wonder_grid #iki-total-cells {
+  font-weight: bold; }
+
+body.wp-admin.post-type-iki_wonder_grid .iki-grid-info {
+  max-width: 700px;
+  border: 1px solid #dfdfdf;
+  padding: 0 15px; }
+
+[dir=rtl] .wp-admin.post-type-iki_wonder_grid img.iki-current-row,
+[dir=rtl] .wp-admin.post-type-iki_wonder_grid img {
+  -webkit-transform: scaleX(-1);
+          transform: scaleX(-1); }
+
+.iki-row-type-classic.iki-row-orientation-square .iki-cell {
+  padding-bottom: 100%; }
+
+.iki-row-type-classic.iki-row-orientation-portrait .iki-cell {
+  padding-bottom: 155%; }
+
+.iki-row-type-classic.iki-row-orientation-landscape .iki-cell {
+  padding-bottom: 56.25%; }
+
+.iki-grid-wrapper {
+  position: relative; }
+
+.iki-grid-row {
+  position: relative; }
+
+.iki-cell {
+  background-color: #939598;
+  height: 0;
+  position: relative; }
